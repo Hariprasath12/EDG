@@ -1,0 +1,29 @@
+body{
+ background-image: url('1.jpg');
+}
+
+#left{
+background-color:green;
+	color:#fff;
+	font-family:"Comic Sans MS", cursive, sans-serif";
+	font-size:18px;
+	line-height:30px;
+	border-radius:20px;
+	
+	border:0;
+	text-shadow:#C17C3A 0 -1px 0;
+	width:120px;
+	height:32px ;
+	margin:20px;
+	top:70px;
+	left:10%;
+	font-style: normal;
+	
+	}
+	#lp{
+	 background-image: url('1.jpg');
+	position:fixed;
+
+				
+				width:13%;
+				}

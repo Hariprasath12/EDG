@@ -1,0 +1,17 @@
+
+body{
+background-color:#9933CC;
+ background-image: url('11.jpg');
+}
+#head{
+font-family:"Comic Sans MS", cursive, sans-serif;
+font-size: 60px;}
+#login{position:fixed;
+
+				left: 80%;
+				top:3%;
+				width:40%;
+				color:#C8C8C8;
+				
+}
+
